@@ -22,7 +22,6 @@ function App() {
     setCount(0);
   }
 
-
   return (
     <>
     <div className='mx-100 bg-slate-600 h-96 text-white text-center pt-96 pb-96'>
